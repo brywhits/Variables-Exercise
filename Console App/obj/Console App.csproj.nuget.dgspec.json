@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bryantwhitsett/repos/Variables-Exercise/VariablesExercise/VariablesExercise.csproj": {}
+    "/Users/bryantwhitsett/repos/Console App/Console App/Console App.csproj": {}
   },
   "projects": {
-    "/Users/bryantwhitsett/repos/Variables-Exercise/VariablesExercise/VariablesExercise.csproj": {
+    "/Users/bryantwhitsett/repos/Console App/Console App/Console App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bryantwhitsett/repos/Variables-Exercise/VariablesExercise/VariablesExercise.csproj",
-        "projectName": "VariablesExercise",
-        "projectPath": "/Users/bryantwhitsett/repos/Variables-Exercise/VariablesExercise/VariablesExercise.csproj",
+        "projectUniqueName": "/Users/bryantwhitsett/repos/Console App/Console App/Console App.csproj",
+        "projectName": "Console App",
+        "projectPath": "/Users/bryantwhitsett/repos/Console App/Console App/Console App.csproj",
         "packagesPath": "/Users/bryantwhitsett/.nuget/packages/",
-        "outputPath": "/Users/bryantwhitsett/repos/Variables-Exercise/VariablesExercise/obj/",
+        "outputPath": "/Users/bryantwhitsett/repos/Console App/Console App/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bryantwhitsett/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -36,8 +36,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
